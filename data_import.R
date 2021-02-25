@@ -26,7 +26,7 @@ ANALYSIS <- "analysis_table.xdf"
 PREDICTION <- "prediction_table.xdf"
 
 #- Load Packages
-library(RevoScaleR)
+#- library(RevoScaleR)
 library(methods)
 
 #- Create Column Info for importing

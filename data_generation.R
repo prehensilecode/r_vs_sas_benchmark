@@ -39,7 +39,7 @@ num_numeric_fields <- 250
 num_integer_fields_fact <- 20
 
 #- Load Packages
-library(RevoScaleR)
+#- library(RevoScaleR)
 library(iterators)
 library(methods)
 

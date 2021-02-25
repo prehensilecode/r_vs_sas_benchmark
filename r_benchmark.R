@@ -15,7 +15,7 @@
 #- Program Setup
 #-------------------------------------------------------------------------------
 #- Load Packages
-library(RevoScaleR)
+#- library(RevoScaleR)
 library(methods)
 
 #- Define Directories and Files for Work
